@@ -1,1 +1,1 @@
-print('hello python & git - fisrt modify')
+print('hello python & git - first modify')
